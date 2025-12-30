@@ -1,0 +1,57 @@
+{
+  "short_name": "SSuite Blog",
+  "name": "SSuite Tech Blog",
+  "description": "SSuite Technology Blog: Tech News about Software Freedom on Windows.",
+  "icons": [
+    {
+      "src": "/pwa/Blogger72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/Blogger96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/Blogger128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/Blogger144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/Blogger152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/Blogger192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/Blogger384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/Blogger512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+	  "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "White",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "/",
+  "theme_color": "White",
+  "id": "SSuite Technology Blog"
+}
